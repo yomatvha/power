@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ttfl7q7oejil3j43?svg=true)](https://ci.appveyor.com/project/yomatvha/power)
